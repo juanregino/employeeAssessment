@@ -1,0 +1,10 @@
+INSERT INTO product (name, price, description) VALUES ('Camiseta Básica', 14.99, 'Camiseta de algodón 100% en varios colores, ideal para uso diario');
+INSERT INTO product (name, price, description) VALUES ('Termo de Acero Inoxidable', 24.99, 'Termo de acero inoxidable con capacidad de 500ml, mantiene las bebidas calientes o frías por 12 horas');
+INSERT INTO product (name, price, description) VALUES ('Cuaderno de Notas', 7.99, 'Cuaderno de notas A5 con tapa dura, 200 páginas, ideal para apuntes y bocetos');
+INSERT INTO product (name, price, description) VALUES ('Buzo con Capucha', 39.99, 'Buzo con capucha de algodón y poliéster, disponible en varios colores y tallas');
+INSERT INTO product (name, price, description) VALUES ('Lapicero de Gel', 1.99, 'Lapicero de gel con tinta suave, disponible en varios colores');
+INSERT INTO product (name, price, description) VALUES ('Camiseta Gráfica', 19.99, 'Camiseta con estampado gráfico de alta calidad, disponible en varias tallas y diseños');
+INSERT INTO product (name, price, description) VALUES ('Termo con Infusor de Té', 29.99, 'Termo de vidrio con infusor de té, capacidad de 350ml, ideal para llevar bebidas saludables');
+INSERT INTO product (name, price, description) VALUES ('Cuaderno Bullet Journal', 12.99, 'Cuaderno bullet journal con páginas punteadas, ideal para organizar tareas y apuntes creativos');
+INSERT INTO product (name, price, description) VALUES ('Buzo Deportivo', 34.99, 'Buzo deportivo ligero y transpirable, ideal para entrenamiento y actividades al aire libre');
+INSERT INTO product (name, price, description) VALUES ('Set de Lapiceros de Colores', 9.99, 'Set de 10 lapiceros de colores con tinta de gel, ideal para dibujar y colorear');
