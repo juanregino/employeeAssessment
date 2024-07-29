@@ -149,7 +149,8 @@ Overall, this project showcased our commitment to high-quality software developm
 
 **Project Diagram:**
 
-![Project Diagram](![imagen](https://github.com/user-attachments/assets/ff57b5d6-c5bc-4bca-8557-72466163862a)
+![Project Diagram](!src/main/resources/imagen.png
+)
 )
 
 ---
