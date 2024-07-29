@@ -1,5 +1,4 @@
 <h1> Coupon Management System </h1>
-# Coupon Management System
 
 ## Table of Contents
 
