@@ -23,7 +23,7 @@ public class CouponEntity {
     @Column(nullable = false)
     private int discountRate;
     @Column(nullable = false)
-    private Boolean isActive;
+    private Boolean isActive = false;
     @Column(columnDefinition = "TIMESTAMP", nullable = false)
     private LocalDate dueDate;
 
