@@ -149,7 +149,7 @@ Overall, this project showcased our commitment to high-quality software developm
 
 **Project Diagram:**
 
-[![Texto alternativo](src)](https://drive.google.com/file/d/1dt0L-HEpwFwdUh6PQTqANZ_er2j_wf1c/view?usp=sharing)
+[![Diagram](src)](https://drive.google.com/file/d/1dt0L-HEpwFwdUh6PQTqANZ_er2j_wf1c/view?usp=sharing)
 
 
 ---
