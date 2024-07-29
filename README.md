@@ -107,7 +107,7 @@ We utilized Trello for task management. Each task was clearly defined with speci
 - **Description**: Creation of entities for the project (User, Coupon, Product, Purchase, RedemptionHistory)
 - **Status**: In Progress
 
-Trello link: [Trello Dashboard](#)
+Trello link: [[Trello Dashboard](https://trello.com/invite/b/66a79fd6ce6cbb0289a81143/ATTI92d67fc55270df65d9e2a365eb72c242F188D5C0/employee-assessment)](#)
 
 ## 6. API Documentation
 
