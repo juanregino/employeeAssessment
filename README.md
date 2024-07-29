@@ -149,7 +149,8 @@ Overall, this project showcased our commitment to high-quality software developm
 
 **Project Diagram:**
 
-![Project Diagram](!src/main/resources/imagen.png)
+[![Texto alternativo](src)](https://drive.google.com/file/d/1dt0L-HEpwFwdUh6PQTqANZ_er2j_wf1c/view?usp=sharing)
+
 
 ---
 red, allowing us to track progress and make adjustments as necessary. This approach ensured that responsibilities were clear, deadlines were met, and the workload was distributed evenly among team members.
