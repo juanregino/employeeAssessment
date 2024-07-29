@@ -19,4 +19,12 @@ public class HistoryEntity {
     private long id;
     @Column(nullable = false)
     private LocalDate date  = LocalDate.now();
+
+    @ManyToOne(fetch = FetchType.LAZY)
+    @JoinColumn(name = "user_id", nullable = false)
+    private UserEntity user;
+
+    @ManyToOne(fetch = FetchType.LAZY)
+    @JoinColumn(name = "coupon_id", nullable = false)
+    private CouponEntity coupon;
 }

@@ -1,5 +1,7 @@
 package com.riwi.base_project.domain.entities;
 
+import java.util.List;
+
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -23,5 +25,11 @@ public class UserEntity {
     private String email;
     @Column(nullable = false, unique = true)
     private String password;
+
+    @OneToMany(mappedBy = "user", cascade = CascadeType.ALL, orphanRemoval = true)
+    private List<PurchaseEntity> purchases;
+
+    @OneToMany(mappedBy = "user", cascade = CascadeType.ALL, orphanRemoval = true)
+    private List<HistoryEntity> histories;
 
 }

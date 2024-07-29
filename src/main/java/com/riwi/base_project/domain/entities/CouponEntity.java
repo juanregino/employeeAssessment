@@ -7,6 +7,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 import java.time.LocalDate;
+import java.util.List;
 
 @Entity(name = "coupon")
 @Data
@@ -25,5 +26,12 @@ public class CouponEntity {
     private Boolean isActive;
     @Column(columnDefinition = "TIMESTAMP", nullable = false)
     private LocalDate dueDate;
+
+
+    @OneToMany(mappedBy = "coupon", cascade = CascadeType.ALL, orphanRemoval = true)
+    private List<PurchaseEntity> purchases;
+
+    @OneToMany(mappedBy = "coupon", cascade = CascadeType.ALL, orphanRemoval = true)
+    private List<HistoryEntity> histories;
 
 }
